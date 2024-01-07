@@ -1,0 +1,10 @@
+back4app
+vmess://ws+tls:d7eaaefa-95ad-42f2-84d6-53e3d3fc7f05-0@umkjkfaef-1tbvol3s.b4a.run:443/?host=umkjkfaef-1tbvol3s.b4a.run&path=/d7eaaefa-95ad-42f2-84d6-53e3d3fc7f05-vm&allowInsecure=true&tlsServerName=umkjkfaef-1tbvol3s.b4a.run#back4app
+
+
+T
+trojan://8a9b93f0-ad5a-11ee-bf61-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=rfthj#T1
+
+trojan://ededd4b0-ad5a-11ee-81d8-1239d0255272@de1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=yurbfetrh#T2
+
+trojan://44899310-ad5b-11ee-b15a-1239d0255272@uk1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=efgnwer#T3
