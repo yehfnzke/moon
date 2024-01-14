@@ -1,6 +1,10 @@
-T
+T-0107
 trojan://8a9b93f0-ad5a-11ee-bf61-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=rfthj#T1
-
 trojan://ededd4b0-ad5a-11ee-81d8-1239d0255272@de1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=yurbfetrh#T2
-
 trojan://44899310-ad5b-11ee-b15a-1239d0255272@uk1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=efgnwer#T3
+T-0114
+trojan://486f1410-b2b4-11ee-9ed9-1239d0255272@fr1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=qehmtyj#T4
+trojan://f52eb490-b2b3-11ee-9de9-1239d0255272@us1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=serdtfgyuh#T5
+trojan://31c5fcf0-b2b3-11ee-95de-1239d0255272@uk1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=ikujyhgtfe#T6
+trojan://4ace2b60-b2b2-11ee-b88f-1239d0255272@ca1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=jhgerfdqaw#T7
+trojan://626f4920-b2b1-11ee-9e00-1239d0255272@de1.test3.net:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=emgaewgu#T8
